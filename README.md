@@ -8,7 +8,7 @@ Currently I am studying computer engineering
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [Patcharaalumaree@gmail.com](mailto:Patcharaalumaree@gmail.com)
-* 🚀  I'm currently working on [Vina Sport​ Intertrade​ Co.Ltd​](http://https://vinasport.co.th/)
+* 🚀  I'm currently working on [Vina Sport​ Intertrade​ Co.Ltd​](https://vinasport.co.th/)
 * 🧠  I'm learning a new framework
 
 ### Skills
