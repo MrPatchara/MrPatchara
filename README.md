@@ -27,6 +27,6 @@ Currently I am studying computer engineering
 
 <a href="https://github.com/MrPatchara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPatchara&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## #30NitesOfCode:
+#30NitesOfCode: 
   [Check out my progress!](https://www.codedex.io/@Patchara-anas/30-nites-of-code) <br> 
   ![@Patchara-anas #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Patchara-anas)
