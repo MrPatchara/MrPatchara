@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🟢 PATCHARA AL-UMAREE  
-### *Junior Computer Engineer*
+### *Computer Engineer*
 `> status: online`  
 </div>
 
