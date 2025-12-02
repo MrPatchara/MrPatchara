@@ -28,7 +28,7 @@ I'm a junior student of **Computer Engineering** based in Bangkok, Thailand, wit
 ## 🔗 SOCIAL LINK DIRECTORY
 <div align="center">
 <a href="https://discord.com/users/mr.root.banana"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="40"/></a>
-<a href="https://www.facebook.com/alumaree.a"><img src="https://skillicons.dev/icons?i=facebook&theme=dark" width="40"/></a>
+<a href="https://www.facebook.com/alumaree.a"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="40"/></a>
 <a href="https://github.com/MrPatchara"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/></a>
 <a href="https://www.instagram.com/patchara.anas"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40"/></a>
 <a href="https://www.linkedin.com/in/patchara-al-umaree"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40"/></a>
