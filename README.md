@@ -3,6 +3,7 @@
 # 🟢 PATCHARA AL-UMAREE  
 ### *Computer Engineer*
 `> status: online`  
+
 </div>
 
 ---
@@ -36,18 +37,22 @@ I'm a junior student of **Computer Engineering** based in Bangkok, Thailand, wit
 
 ---
 
-## 📂 REPOSITORIES <div> [![GitHub Followers](https://img.shields.io/github/followers/MrPatchara?label=Followers&style=for-the-badge&color=8B0000)](https://github.com/MrPatchara) [![GitHub Stars](https://img.shields.io/github/stars/MrPatchara?label=Stars&style=for-the-badge&color=8B0000)](https://github.com/MrPatchara?tab=stars)
+## 📂 REPOSITORIES  
+<div align="center">
+
+[![GitHub Followers](https://img.shields.io/github/followers/MrPatchara?label=Followers&style=for-the-badge&color=8B0000)](https://github.com/MrPatchara)
+[![GitHub Stars](https://img.shields.io/github/stars/MrPatchara?label=Stars&style=for-the-badge&color=8B0000)](https://github.com/MrPatchara?tab=stars)
+
 </div>
 
 Here are some highlighted repositories:
 
 | Repository | Description |
 |------------|-------------|
-| [Driver-Fatigue-Detector](https://github.com/MrPatchara/Driver-Fatigue-Detector) | Python + OpenCV driver monitoring system |
-| [MultiStage-Fitness-Test](https://github.com/MrPatchara/MultiStage-Fitness-Test) | ESP32 + Python Fitness Test System |
-| [RAST-Test](https://github.com/MrPatchara/RAST-Test) | Running-based Anaerobic Sprint Test system |
-| [2D-Online-Meeting-Game](https://github.com/MrPatchara/2D-Online-Meeting-Game) | Web interactive 2D meeting simulation |
-| [Hand-Control-InMoov](https://github.com/MrPatchara/Hand-Control-InMoov) | Python + OpenCV for robot hand control |
+| [Smart-Multi-Stage-Fitness-Test-System](https://github.com/MrPatchara/Smart-Multi-Stage-Fitness-Test-System) | ESP32 + Python based Multi-Stage (Beep) Fitness Test system with real-time monitoring |
+| [FREE-Football-Analysis](https://github.com/MrPatchara/FREE-Football-Analysis) | Open-source football analysis project using computer vision techniques |
+| [Solar-Parcel-Receiving-Box](https://github.com/MrPatchara/Solar-Parcel-Receiving-Box) | Solar-powered smart parcel receiving box with embedded system integration |
+| [OpenCV-Robotic-Hand-Control](https://github.com/MrPatchara/OpenCV-Robotic-Hand-Control) | Python + OpenCV system for robotic hand and gesture control |
+| [Driver-Drowsiness-Detection-System](https://github.com/E9th/Driver-Drowsiness-Detection-System) | Computer vision-based driver drowsiness and fatigue detection system |
 
 ---
-
