@@ -37,14 +37,15 @@ I'm a junior student of **Computer Engineering** based in Bangkok, Thailand, wit
 
 ---
 
+
 ## 📂 REPOSITORIES  
 <div align="center">
 
 [![GitHub Followers](https://img.shields.io/github/followers/MrPatchara?label=Followers&style=for-the-badge&color=8B0000)](https://github.com/MrPatchara)
 [![GitHub Stars](https://img.shields.io/github/stars/MrPatchara?label=Stars&style=for-the-badge&color=8B0000)](https://github.com/MrPatchara?tab=stars)
+<br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPatchara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-
 Here are some highlighted repositories:
 
 | Repository | Description |
