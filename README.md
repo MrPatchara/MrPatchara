@@ -22,7 +22,7 @@ I'm a junior student of **Computer Engineering** based in Bangkok, Thailand, wit
 ## 🏆 CERTIFICATES
 <div align="center">
 
-<img src="assets/certificates/certificate_slideshow1.gif" width="500"/>
+<img src="assets/certificates/certificate_slideshow1.gif" width="700"/>
 
 </div>
 
