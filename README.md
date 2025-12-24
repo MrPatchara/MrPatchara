@@ -19,6 +19,13 @@ I'm a junior student of **Computer Engineering** based in Bangkok, Thailand, wit
 
 ---
 
+## 🏆 CERTIFICATES
+<div align="center">
+
+<img src="assets/certificates/certificate_slideshow1.gif" width="500"/>
+
+</div>
+
 ## ⚙️ TECH STACK
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,linux,arduino,raspberrypi,gcp,vscode&theme=dark" />
@@ -57,3 +64,5 @@ Here are some highlighted repositories:
 | [Driver-Drowsiness-Detection-System](https://github.com/E9th/Driver-Drowsiness-Detection-System) | Computer vision-based driver drowsiness and fatigue detection system |
 
 ---
+
+
