@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🟢 PATCHARA AL-UMAREE  
-### *Computer Engineer*
+### *Computer Engineer + Sports Scientist*
 `> status: online`  
 
 </div>
