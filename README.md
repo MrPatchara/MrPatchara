@@ -2,6 +2,7 @@
 
 # 🟢 PATCHARA AL-UMAREE  
 ### *Computer Engineer + Sports Scientist*
+### *https://patchara.vercel.app*
 `> status: online`  
 
 </div>
@@ -14,6 +15,7 @@
 I'm a junior student of **Computer Engineering** based in Bangkok, Thailand, with a strong passion for **software development, embedded systems**, and innovative technologies. I am currently pursuing my studies while actively enhancing my skills by exploring modern frameworks, tools, and engaging in real-world projects.
 
 📍 Location: Bangkok, Thailand  
+💼 Portfolio: https://patchara.vercel.app  
 📧 Email: [Patcharaalumaree@gmail.com](mailto:Patcharaalumaree@gmail.com)  
 📚 Learning: New frameworks & practical development techniques  
 
