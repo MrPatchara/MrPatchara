@@ -2,7 +2,6 @@
 
 # 🟢 PATCHARA AL-UMAREE  
 ### *https://patchara.vercel.app*
-`> status: online`  
 
 </div>
 
