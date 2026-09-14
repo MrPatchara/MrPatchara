@@ -1,7 +1,6 @@
 <div align="center">
 
 # 🟢 PATCHARA AL-UMAREE  
-### *Computer Engineer + Sports Scientist*
 ### *https://patchara.vercel.app*
 `> status: online`  
 
